@@ -1,6 +1,6 @@
-- Olá, meu nome é Carolaine França!🍑
-- Estou aprendendo JavaScript, HTML, CSS, Python, MySQL e PostgreSQL.🍑
-- Quero ser um pacotinho completo.🍑
+- Olá, meu nome é Carolaine França! 🍑
+- Estou aprendendo JavaScript, HTML, CSS, Python, MySQL e PostgreSQL. 🍑
+- E meu objetivo é ser um pacotinho completo! 🍑
 
 <!---
 carolaine1998/carolaine1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
